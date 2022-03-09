@@ -1,0 +1,8 @@
+Illustrative code for Nexign Bootcamp aspect-oriented-programming in Spring lecture
+Copyright (C) 2022 Nexign, JSC
+
+This code is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+You're free to use this code for educational purposes.
