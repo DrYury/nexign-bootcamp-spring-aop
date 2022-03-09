@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class Controller {
+    @MeteredDoSomething
     @PostMapping("/doSomething")
     public Response doSomething(@RequestBody Request request) {
         String user = (request.getUser() != null) ? request.getUser() : "Somebody";
